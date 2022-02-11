@@ -1,0 +1,25 @@
+# Governança e Administração
+
+- CloudOps
+  - IAM
+  - Compartments
+  - Tagging
+  - Console
+  - Cost Advisor
+- Security
+  - Cloud Guard
+  - Security Zones
+  - Vault
+  - KMS
+  - Data Safe
+  - DDoS
+  - WAF
+- Observability
+  - Monitoring
+  - Logging
+  - Logging Analytics
+  - Notifications
+  - Events
+  - Operations Insights
+  - APM
+  - Management Cloud
